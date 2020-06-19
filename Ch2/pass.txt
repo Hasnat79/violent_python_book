@@ -1,0 +1,10 @@
+admin
+root
+toor
+password
+password1
+12345
+alpine
+123456
+1234
+123
